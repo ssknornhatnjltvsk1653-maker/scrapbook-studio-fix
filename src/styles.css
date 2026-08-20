@@ -359,7 +359,7 @@
 
 @media (prefers-reduced-motion: reduce) {
   .scrap-floaty, .scrap-twinkle, .scrap-shoot, .scrap-blob,
-  .mystery-particle, .puzzle-confetti { animation: none !important; }
+  .doodle-box-btn, .sticker-extra, .memo-win-burst { animation: none !important; }
 }
 
 /* ── Digital Sticker Room ──────────────────────────────── */
